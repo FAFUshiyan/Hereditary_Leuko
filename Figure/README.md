@@ -1,2 +1,3 @@
 heatmap.block_clustered by Heatmap.block_clustered.R
-./image/heatmap.block_clustered.pdf
+
+![流程图](./image/heatmap.block_clustered.pdf)
