@@ -20,3 +20,12 @@ Rscript plot_GO_selected.R GO_BP_up_from_list_all.tsv GO_terms_to_show.txt file_
 ```bash
 Rscript run.DESeq2.R file.RNA-seq.count.matrix.tsv sample.info.clean.tsv output_prefix
 ```
+
+# violin.R
+
+![流程图](./image/violin.png)
+
+
+# volcano.R
+
+![流程图](./image/volcano.png)
